@@ -21,8 +21,8 @@ git clone https://forge.univ-lyon1.fr/p2310628/projet_g2s3a_senelet_canan.git
 cd projet_g2s3a_senelet_canan
 ```
 
-1. Assurez-vous d'avoir Python installé (version 3.6 ou supérieure).
-2. Installer les dépendances requises :
+2. Assurez-vous d'avoir Python installé (version 3.6 ou supérieure).
+3. Installer les dépendances requises :
 
 ```Python
 pip install tk
