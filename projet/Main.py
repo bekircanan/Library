@@ -1,4 +1,4 @@
-from projet.data_structures import *
+from data_structures import *
 import csv
 import tkinter as tk
 from tkinter import ttk
