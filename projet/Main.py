@@ -8,7 +8,7 @@ from tkinter import messagebox
 # importer le fichier csv et créer une liste de dictionnaires
 # args: biblio: ListeChainée
 def creationBiblio(biblio):
-    with open('./projet/livre.csv', newline='', encoding="utf-8") as csvfile:
+    with open('./livre.csv', newline='', encoding="utf-8") as csvfile:
         spamreader = csv.reader(csvfile)
         for row in spamreader:
             livre = {

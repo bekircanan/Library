@@ -33,7 +33,7 @@ pip install tk
 1. Exécuter l'application :
 
 ```Python
-python projet/Main.py
+python ./projet/Main.py
 ```
 
 2. Utiliser la barre de recherche pour entrer des termes de recherche et sélectionner la catégorie de recherche (Titre, Auteur, Langue, Style, Genre).
